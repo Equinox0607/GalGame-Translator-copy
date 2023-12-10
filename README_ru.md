@@ -116,11 +116,3 @@
 * [@KirpichKrasniy](https://github.com/KirpichKrasniy)
 
 </details>
-
-
-## Support author
- 
-If you feel that the software is helpful to you, you are welcome to scan WeChat code to sponsor. Thank you ~
-
-
-<img src='.\\LunaTranslator\\files\\zan.jpg' style="height: 400px !important;">
